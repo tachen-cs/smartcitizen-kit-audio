@@ -1,3 +1,5 @@
+// 和我想看到的东西差别还是蛮大的
+
 #include "AudioAnalyser.h"
 
 bool AudioAnalyser::begin(long sampleRate, int bitsPerSample) {
